@@ -3,6 +3,7 @@
 What's different from the main repo?
 - Added support for GPT-4-32k
 - Added support for GPT-3_5-16k
+- Set temperature for each model
 - Whisper transcription
 - Security updates
 
