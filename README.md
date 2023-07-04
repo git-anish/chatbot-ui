@@ -1,5 +1,12 @@
 # Chatbot UI
 
+What's different from the main repo?
+- Added support for GPT-4-32k
+- Added support for GPT-3_5-16k
+- Whisper transcription
+- Security updates
+
+
 Chatbot UI is an open source chat UI for AI models.
 
 See a [demo](https://twitter.com/mckaywrigley/status/1640380021423603713?s=46&t=AowqkodyK6B4JccSOxSPew).
