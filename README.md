@@ -52,7 +52,7 @@ docker run -e OPENAI_API_KEY=xxxxxxxx -p 3000:3000 ghcr.io/mckaywrigley/chatbot-
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/mckaywrigley/chatbot-ui.git
+git clone https://github.com/git-anish/chatbot-ui.git
 ```
 
 **2. Install Dependencies**
@@ -107,6 +107,6 @@ If you don't have an OpenAI API key, you can get one [here](https://platform.ope
 
 ## Contact
 
-If you have any questions, feel free to reach out to Mckay on [Twitter](https://twitter.com/mckaywrigley).
+If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/anishsfo).
 
 [GCSE]: https://developers.google.com/custom-search/v1/overview
